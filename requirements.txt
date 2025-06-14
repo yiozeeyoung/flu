@@ -1,2 +1,5 @@
-rdkit
+rdkit-pypi
 numpy
+torch
+torch_geometric
+pandas
