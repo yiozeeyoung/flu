@@ -1,0 +1,40 @@
+# 数据文件和缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.pytest_cache/
+
+# 模型文件和训练输出
+*.pth
+*.pt
+training_*/
+*.png
+*.jpg
+*.jpeg
+
+# 大数据文件
+dataset/train_4M/
+dataset/train_4M_pyg/
+*.aselmdb
+*.db
+
+# IDE和编辑器文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 日志文件
+*.log
+
+# 临时文件
+*.tmp
+*.temp
